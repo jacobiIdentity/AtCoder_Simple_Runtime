@@ -1,0 +1,2 @@
+# AtCoder_Simple_Runtime
+Google Colab で実行可能なAtCoderの簡単な実行環境
